@@ -1,0 +1,23 @@
+,absolute_url
+author,author_str,
+cluster,
+date_created,
+date_modified,
+download_url,
+extracted_by_ocr,
+html,
+html_columbia,
+html_lawbox,
+html_with_citations,
+joined_by,
+local_path,
+opinions_cited,
+page_count,
+per_curiam,
+plain_text,
+resource_uri,
+sha1,
+type
+
+
+"caseId	usCite	caseName	majVotes	minVotes	decisionDirection"
